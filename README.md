@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=F7B93E&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Anurag+Verma!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!">  
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="100px">
-</p>
 
 
 ![Background](https://github.com/anuragverma394/anuragverma394/blob/aa73c6119b9b49a224bfa2f9879561621711d426/linkeden%20banner.jpg)
