@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm a passionate **Java Developer** with expertise
 - **Frameworks:** Spring Boot, Hibernate
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Technologies:** HTML, CSS
-- **Tools:** Git, Docker, Kubernetes, Jenkins
-- **Cloud:** AWS, Firebase
+- **Tools:** Git,
+- **Cloud:**
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragverma394&show_icons=true&theme=dark)
