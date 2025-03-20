@@ -49,6 +49,37 @@ Welcome to my GitHub profile! I'm a passionate **Java Developer** with expertise
 🔹 [**Parking Management System**](https://github.com/anuragverma394/parking-management-system) - A system to manage parking spaces efficiently using Java Spring Boot and MySQL.
 
 ---
+### 🎭 Moving Character Animation
+<p align="center">
+  <dotlottie-player id="movingCharacter" src="https://lottie.host/483310fb-a3dd-45e0-90c1-d5e505464b58/KcbYEnWhF2.lottie" background="transparent" speed="1" style="width: 150px; height: 150px; position: absolute;" loop autoplay></dotlottie-player>
+</p>
+
+<script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    let character = document.getElementById("movingCharacter");
+    let xPos = 0;
+    let yPos = 0;
+    let directionX = 1;
+    let directionY = 1;
+
+    function moveCharacter() {
+      if (xPos >= window.innerWidth - 150 || xPos <= 0) directionX *= -1;
+      if (yPos >= window.innerHeight - 150 || yPos <= 0) directionY *= -1;
+
+      xPos += directionX * 2;
+      yPos += directionY * 2;
+
+      character.style.left = xPos + "px";
+      character.style.top = yPos + "px";
+
+      requestAnimationFrame(moveCharacter);
+    }
+
+    moveCharacter();
+  });
+</script>
+
 
 ### 📫 Connect With Me
 <p align="center">
