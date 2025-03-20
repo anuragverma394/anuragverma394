@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Anurag Verma! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Welcome to my GitHub profile! I'm a passionate **Java Developer** with expertise in **Spring Boot, Backend Development, and Real-Time Applications**. I enjoy building scalable applications and working on exciting projects like **Hand Gesture Recognition** and **Parking Management Systems**.
+![Background](https://github.com/anuragverma394/anuragverma394/blob/main/assets/banner.png)
 
-![Profile Animation](https://github.com/anuragverma394/anuragverma394/blob/main/assets/banner.gif)
+Welcome to my GitHub profile! I'm a passionate **Java Developer** with expertise in **Spring Boot, Backend Development, and Real-Time Applications**. I enjoy building scalable applications and working on exciting projects like **Hand Gesture Recognition** and **Parking Management Systems**.
 
 ---
 
