@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate **Java Developer** with expertise
   <dotlottie-player id="movingCharacter" src="https://lottie.host/483310fb-a3dd-45e0-90c1-d5e505464b58/KcbYEnWhF2.lottie" background="transparent" speed="1" style="width: 150px; height: 150px; position: absolute;" loop autoplay></dotlottie-player>
 </p>
 
-<script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
+<script src="[https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module](https://lottie.host/483310fb-a3dd-45e0-90c1-d5e505464b58/KcbYEnWhF2.lottie)"></script>
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     let character = document.getElementById("movingCharacter");
