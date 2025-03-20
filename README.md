@@ -75,7 +75,8 @@ Welcome to my GitHub profile! I'm a passionate **Java Developer** with expertise
 </div>
 
 <script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
-<script>
+<dotlottie-player src="https://lottie.host/483310fb-a3dd-45e0-90c1-d5e505464b58/KcbYEnWhF2.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
+
   document.addEventListener("DOMContentLoaded", function () {
     let character = document.getElementById("movingCharacter");
     let xPos = 0, yPos = 0;
