@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7B93E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Anurag+Verma!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Java+%7C+Spring+Boot+%7C+Backend+Dev">  
 </h1>
 
-![Background](https://github.com/anuragverma394/anuragverma394/blob/main/linkedin_banner.jpg)
+![Background](https://github.com/anuragverma394/anuragverma394/blob/main/linkedinbanner.jpg)
 
 ---
 
