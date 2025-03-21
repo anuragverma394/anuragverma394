@@ -1,25 +1,20 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=F7B93E&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Anurag+Verma!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!">  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7B93E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Anurag+Verma!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Java+%7C+Spring+Boot+%7C+Backend+Dev">  
 </h1>
 
-
-
-![Background](https://github.com/anuragverma394/anuragverma394/blob/aa73c6119b9b49a224bfa2f9879561621711d426/linkeden%20banner.jpg)
-
-Welcome to my GitHub profile! I'm a passionate **Java Developer** with expertise in **Spring Boot, Backend Development, and Real-Time Applications**. I enjoy building scalable applications and working on exciting projects like **Hand Gesture Recognition** and **Parking Management Systems**.
+![Background](https://github.com/anuragverma394/anuragverma394/blob/main/linkedin_banner.jpg)
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **real-time stock market tracking using Spring Boot**
-- 🌱 Learning advanced **microservices & cloud deployment**
-- 💡 Passionate about **system design & performance optimization**
-- 🎯 Open to collaboration on **Java, Spring Boot, and Backend Projects**
+- 🔭 Currently working on **Real-Time Stock Market Tracking using Spring Boot** 📈
+- 🌱 Learning advanced **Microservices & Cloud Deployment** ☁️
+- ⚡ Passionate about **System Design & Performance Optimization**
+- 🤝 Open to collaboration on **Java, Spring Boot, and Backend Projects**
 
 ---
 
 ### 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
@@ -27,6 +22,9 @@ Welcome to my GitHub profile! I'm a passionate **Java Developer** with expertise
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 </p>
 
 ---
@@ -39,19 +37,31 @@ Welcome to my GitHub profile! I'm a passionate **Java Developer** with expertise
 
 ---
 
-### 📌 Featured Projects
-
-🔹 [**Hand Gesture Recognition**](https://github.com/anuragverma394/hand-gesture-recognition) - A Java Spring Boot project for recognizing hand gestures.
-
-🔹 [**Parking Management System**](https://github.com/anuragverma394/parking-management-system) - A system to manage parking spaces efficiently using Java Spring Boot and MySQL.
+### 🔥 Real-Time Activity
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuragverma394&theme=github_dark" width="80%"/>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragverma394&theme=react-dark" width="80%"/>
+</p>
 
 ---
 
+### 📌 Featured Projects
+
+🚀 [**Hand Gesture Recognition**](https://github.com/anuragverma394/hand-gesture-recognition) - A Java Spring Boot project for recognizing hand gestures.
+
+🚗 [**Parking Management System**](https://github.com/anuragverma394/parking-management-system) - A system to manage parking spaces efficiently using Java Spring Boot and MySQL.
+
+📊 [**Real-Time Stock Market Tracker**](https://github.com/anuragverma394/stock-market-tracker) - Track live stock prices with alerts and visualization.
+
+---
 
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/anurag-verma-811ba4270"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:anuragverma394@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://twitter.com/anurag_verma394"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"></a>
+  <a href="https://dev.to/anuragverma394"><img src="https://img.shields.io/badge/Dev.to-Profile-black?style=for-the-badge&logo=dev.to"></a>
 </p>
 
 ---
