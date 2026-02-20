@@ -1,64 +1,104 @@
----
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=800&color=FFAE00&center=true&vCenter=true&width=650&lines=Building+Fast.+Scaling+Hard.;Performance+Is+A+Feature.;Welcome+To+My+Digital+Lab+⚡" />
-</h3>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=1800&pause=500&color=FFAE00&center=true&vCenter=true&width=800&lines=ANURAG+VERMA;Backend+Engineer+⚡;Java+%7C+Spring+Boot+%7C+PERN;Designing+High+Performance+Systems" />
-</h1>
+<!-- ======================= NEON HEADER ======================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anuragverma394&label=PROFILE+VIEWS&color=FFAE00&style=for-the-badge"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=1"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=46&duration=1700&pause=350&color=FFAE00&center=true&vCenter=true&width=1000&lines=ANURAG+VERMA;BACKEND+ENGINEER+⚡;JAVA+•+SPRING+BOOT+•+PERN;HIGH+PERFORMANCE+SYSTEMS" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAE00,100:111111&height=160&section=header"/>
 </p>
 
 <p align="center">
   <img src="https://github.com/anuragverma394/anuragverma394/blob/main/linkeden%20banner.jpg"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anuragverma394&label=PROFILE+VIEWS&color=FFAE00&style=for-the-badge"/>
+</p>
+
 ---
 
+<!-- ======================= HUD DIVIDER ======================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFAE00&height=3&width=90%"/>
+</p>
 
 <h2 align="center">⚡ SYSTEMS • PERFORMANCE • REAL-TIME ⚡</h2>
 
----
-
-## 🧠 About Me
-
-🟠 Backend-focused engineer obsessed with **speed & scalability**  
-🟣 Building **Real-Time + High Performance Applications**  
-🟠 Exploring **PERN Stack & Distributed Systems**  
-🟣 Passionate about **System Design & Architecture**  
-🟠 Constantly optimizing, refactoring, improving 🚀  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFAE00&height=3&width=90%"/>
+</p>
 
 ---
 
-## 🚀 Tech Arsenal
+<!-- ======================= ABOUT PANEL ======================= -->
 
-### ⚙️ Backend
-<p>
+## 🧠 Digital Profile
+
+```bash
+STATUS  : ONLINE
+ROLE    : BACKEND ENGINEER
+FOCUS   : SCALABLE / REAL-TIME SYSTEMS
+STACK   : JAVA • SPRING BOOT • PERN • REDIS
+MINDSET : BUILD • OPTIMIZE • SCALE
+```
+
+⚡ Backend Engineer focused on **Speed • Scalability • Efficiency**  
+🚀 Designing **High-Performance & Real-Time Architectures**  
+🧩 Exploring **Distributed Systems & PERN Stack**  
+🛠 Obsessed with **System Design & Clean Architecture**  
+🔥 Performance Is Always A Feature  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFAE00&height=2&width=100%"/>
+</p>
+
+<!-- ======================= TECH HUD ======================= -->
+
+## 🚀 Technology Interface
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BACKEND_CORE-FFAE00?style=for-the-badge"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=FFAE00"/>
   <img src="https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=FFAE00"/>
   <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=FFAE00"/>
-  <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=FFAE00"/>
+  <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=FFAE00"/>
 </p>
 
-### 🗄️ Data Layer
-<p>
+<p align="center">
+  <img src="https://img.shields.io/badge/DATA_LAYER-FFAE00?style=for-the-badge"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=FFAE00"/>
   <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=FFAE00"/>
   <img src="https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=FFAE00"/>
 </p>
 
-### 🎨 Frontend
-<p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FRONTEND_LAYER-FFAE00?style=for-the-badge"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=FFAE00"/>
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=FFAE00"/>
   <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=FFAE00"/>
 </p>
 
-### ☁️ DevOps / Cloud
-<p>
+<p align="center">
+  <img src="https://img.shields.io/badge/CLOUD_STACK-FFAE00?style=for-the-badge"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=FFAE00"/>
   <img src="https://img.shields.io/badge/Kubernetes-111111?style=for-the-badge&logo=kubernetes&logoColor=FFAE00"/>
   <img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=FFAE00"/>
@@ -66,19 +106,24 @@
 
 ---
 
-## 📊 GitHub Telemetry
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragverma394&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFAE00&height=2&width=100%"/>
 </p>
 
+<!-- ======================= STATS ENGINE ======================= -->
+
+## 📊 Telemetry Engine
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragverma394&theme=radical&hide_border=true&background=0D1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=anuragverma394&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragverma394&theme=radical&hide_border=true&background=0D1117"/>
 </p>
 
 ---
 
-## 🔥 Live Activity Graph
+<!-- ======================= ACTIVITY ======================= -->
+
+## 🔥 Runtime Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragverma394&theme=react-dark&hide_border=true&bg_color=0D1117" width="95%"/>
@@ -86,7 +131,7 @@
 
 ---
 
-## 🐍 Neon Contribution Snake
+## 🐍 Contribution Matrix
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/anuragverma394/anuragverma394/output/github-contribution-grid-snake.svg"/>
@@ -94,16 +139,16 @@
 
 ---
 
-## 🚀 Featured Builds
+## 🚀 System Builds
 
-🟠 **Real-Time Stock Market Tracker**  
-🟣 **Parking Management System**  
-🟠 **Hand Gesture Recognition**  
-🟣 **PERN Stack Applications (Ongoing)**  
+🟠 **Real-Time Stock Market Tracker** → Live Event Driven System  
+🟣 **Parking Management System** → Backend + Database Architecture  
+🟠 **Hand Gesture Recognition** → AI + Spring Boot  
+🟣 **PERN Stack Applications** → Scalable Full-Stack Systems  
 
 ---
 
-## 📡 Connect
+## 📡 Network Links
 
 <p align="center">
   <a href="https://linkedin.com/in/anurag-verma-811ba4270">
@@ -119,26 +164,6 @@
 
 ---
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=800&color=FFAE00&center=true&vCenter=true&width=650&lines=Building+Fast.+Scaling+Hard.;Performance+Is+A+Feature.;Welcome+To+My+Digital+Lab+⚡" />
-</h3>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=1800&pause=500&color=FFAE00&center=true&vCenter=true&width=800&lines=ANURAG+VERMA;Backend+Engineer+⚡;Java+%7C+Spring+Boot+%7C+PERN;Designing+High+Performance+Systems" />
-</h1>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anuragverma394&label=PROFILE+VIEWS&color=FFAE00&style=for-the-badge"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:FFAE00&height=160&section=footer"/>
 </p>
-
-<p align="center">
-  <img src="https://github.com/anuragverma394/anuragverma394/blob/main/linkeden%20banner.jpg"/>
-</p>
-
----
-
-```diff
-+ STATUS: ONLINE
-+ FOCUS: SCALABLE SYSTEMS / REAL-TIME APPS
-+ STACK: JAVA • SPRING BOOT • PERN • REDIS
-+ MODE: BUILD • OPTIMIZE • SHIP
