@@ -1,7 +1,12 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=2000&pause=600&color=FFAE00&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Anurag+Verma+👋;Backend+Engineer+%7C+Java+%7C+Spring+Boot;PERN+Stack+Developer+🚀;Designing+Scalable+%26+High+Performance+Systems" />
-</h1>
+---
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=800&color=FFAE00&center=true&vCenter=true&width=650&lines=Building+Fast.+Scaling+Hard.;Performance+Is+A+Feature.;Welcome+To+My+Digital+Lab+⚡" />
+</h3>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=1800&pause=500&color=FFAE00&center=true&vCenter=true&width=800&lines=ANURAG+VERMA;Backend+Engineer+⚡;Java+%7C+Spring+Boot+%7C+PERN;Designing+High+Performance+Systems" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anuragverma394&label=PROFILE+VIEWS&color=FFAE00&style=for-the-badge"/>
@@ -10,6 +15,15 @@
 <p align="center">
   <img src="https://github.com/anuragverma394/anuragverma394/blob/main/linkeden%20banner.jpg"/>
 </p>
+
+---
+
+```diff
++ STATUS: ONLINE
++ FOCUS: SCALABLE SYSTEMS / REAL-TIME APPS
++ STACK: JAVA • SPRING BOOT • PERN • REDIS
++ MODE: BUILD • OPTIMIZE • SHIP
+
 
 ---
 
