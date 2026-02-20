@@ -134,7 +134,7 @@ MINDSET : BUILD • OPTIMIZE • SCALE
 ## 🐍 Contribution Matrix
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anuragverma394/anuragverma394/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/anuragverma394/anuragverma394/output/.github/workflows/snake.yml"/>
 </p>
 
 ---
