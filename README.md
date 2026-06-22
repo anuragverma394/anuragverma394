@@ -1,51 +1,137 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7B93E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Anurag+Verma!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Java+%7C+Spring+Boot+%7C+Backend+Dev">
-</h1><img src="https://raw.githubusercontent.com/anuragverma394/anuragverma394/e8a82f9512c82f4e23b5f1a6bdf5d942df5f3a28/linkeden%20banner.jpg" />
----
-### 🚀 About Me
-- 🔭 Currently working on **Real-Time Stock Market Tracking using Spring Boot** 📈
-- 🌱 Learning advanced **Microservices & Cloud Deployment** ☁️
-- ⚡ Passionate about **System Design & Performance Optimization**
-- 🤝 Open to collaboration on **Java, Spring Boot, and Backend Projects**
----
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-</p>
----
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragverma394&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragverma394&theme=radical" width="48%"/>
-</p>
----
-### 🔥 Real-Time Activity
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuragverma394&theme=github_dark" width="80%"/>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragverma394&theme=react-dark" width="80%"/>
-</p>
----
-### 📌 Featured Projects
-🚀 [**Hand Gesture Recognition**](https://github.com/anuragverma394/hand-gesture-recognition) - A Java Spring Boot project for recognizing hand gestures.
-🚗 [**Parking Management System**](https://github.com/anuragverma394/parking-management-system) - A system to manage parking spaces efficiently using Java Spring Boot and MySQL.
-📊 [**Real-Time Stock Market Tracker**](https://github.com/anuragverma394/stock-market-tracker) - Track live stock prices with alerts and visualization.
----
-### 📫 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/anurag-verma-811ba4270"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:anuragverma394@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://twitter.com/anurag_verma394"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"></a>
-  <a href="https://dev.to/anuragverma394"><img src="https://img.shields.io/badge/Dev.to-Profile-black?style=for-the-badge&logo=dev.to"></a>
-</p>
----
-💡 *Let's build something amazing together!* 🚀
- 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=F7B93E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anurag+Verma!+%F0%9F%91%8B;Java+%7C+Spring+Boot+Developer;Backend+%26+System+Design+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+
+<img src="https://raw.githubusercontent.com/anuragverma394/anuragverma394/e8a82f9512c82f4e23b5f1a6bdf5d942df5f3a28/linkeden%20banner.jpg" width="100%" alt="Profile Banner"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=anuragverma394&label=Profile%20Views&color=f7b93e&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/anuragverma394?label=Followers&style=for-the-badge&color=f7b93e" alt="Followers"/>
+
+</div>
+
+<br/>
+
+## 🧑‍💻 About Me
+
+```yaml
+name: "Anurag Verma"
+role: "Backend Developer (Java | Spring Boot)"
+currently_building: "Real-Time Stock Market Tracker with Spring Boot 📈"
+currently_learning: "Microservices Architecture & Cloud Deployment ☁️"
+interests: ["System Design", "Performance Optimization", "Distributed Systems"]
+open_to: "Collaboration on Java, Spring Boot & Backend Projects 🤝"
+fun_fact: "I debug with print statements and I'm not ashamed 😄"
+```
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+**Databases**
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+
+**DevOps & Cloud**
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anuragverma394&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragverma394&theme=radical&hide_border=true" width="49%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragverma394&layout=compact&theme=radical&hide_border=true" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=anuragverma394&theme=radical&no-frame=true&row=2&column=4" width="49%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragverma394&theme=react-dark&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+## 📌 Featured Projects
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Hand Gesture Recognition</h3>
+      <p>A Java Spring Boot project for recognizing hand gestures in real time.</p>
+      <a href="https://github.com/anuragverma394/hand-gesture-recognition">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚗 Parking Management System</h3>
+      <p>Efficiently manages parking spaces using Java Spring Boot &amp; MySQL.</p>
+      <a href="https://github.com/anuragverma394/parking-management-system">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 Real-Time Stock Market Tracker</h3>
+      <p>Tracks live stock prices with alerts and visualization.</p>
+      <a href="https://github.com/anuragverma394/stock-market-tracker">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✨ More coming soon...</h3>
+      <p>Currently shipping new backend & system-design projects — stay tuned!</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📫 Connect With Me
+
+<div align="center">
+<a href="https://linkedin.com/in/anurag-verma-811ba4270"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:anuragverma394@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://twitter.com/anurag_verma394"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://dev.to/anuragverma394"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💡 *"Code is like humor. When you have to explain it, it's bad."*
+
+**Let's build something amazing together! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</div>
